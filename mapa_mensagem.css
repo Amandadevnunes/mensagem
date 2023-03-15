@@ -1,0 +1,10 @@
+.fundo_detalhe_lateral_esquerdo{
+    display: flex;
+    height: 673px;
+    width: 100%;
+}
+
+.mapa{
+
+    justify-content: baseline;
+}
