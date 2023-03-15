@@ -1,0 +1,82 @@
+.olho_banner {
+    /* Coloquei o fundo da imagem no background */
+    align-items: center;
+    background-image: url(/assets/img/bg-banner.svg);
+    display: flex;
+    height: 205px;
+    width: 100%;
+}
+
+.olho_banner img {
+    height: 165px;
+    opacity: 0.7;
+    width: 100%;
+}
+
+/* .banner__container {
+    height: 205px;
+    width: 100%;
+} */
+
+/*Aqui é onde começa o desenho do bg do banner*/
+/* 
+.banner__bg {
+    background-color: var(--azul-claro-light);
+    display: flex;
+    justify-content: center;
+    height: 205px;
+    width: 100%;
+}
+/* #camada1 {
+    paralelogramo azul claro
+    background-color: var(--azul-claro);
+    opacity: 0.4;
+    width: 100;
+    transform: none;
+    -webkit-transform: skew(25deg);
+    -moz-transform: skew(25deg);
+    -o-transform: skew(25deg);
+}
+#camada2 {
+    paralelogramo azul médio
+    background-color: var(--azul-medio);
+    opacity: 0.4;
+    width: 160px;
+    transform: none;
+    -webkit-transform: skew(25deg);
+    -moz-transform: skew(25deg);
+    -o-transform: skew(25deg);
+}
+ <link rel="stylesheet" href="assets/style/base.css" type="text/css">
+}
+#camada4 {
+    paralelogramo azul médio invertido
+    background-color: var(--azul-medio);
+    opacity: 0.4;
+    width: 160px;
+    transform: none;
+    -webkit-transform: skew(-25deg);
+    -moz-transform: skew(-25deg);
+    -o-transform: skew(-25deg);
+}
+*/
+/*Aqui termina o desenho do bg do banner*/
+
+/* #img-banner {
+    background-image: url('../imagem/banner-medico.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
+    opacity: 0.9;
+    position: absolute;
+    top: 200px;
+    width: 100%;
+} */
+
+
+.texto__padrao__home{
+    display: flex;
+    align-items: center;
+    
+    width: 135px;
+}
